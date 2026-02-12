@@ -28,7 +28,7 @@ $dbname = 'tp_auth';
 $user = 'root'; // Votre utilisateur
 $pass = '';     // Votre mot de passe
 
-#Structure du projet 
+# 4. Structure du Projet
 /TP_Auth
 │
 ├── index.php          # La Vue (Interface HTML/JS)
