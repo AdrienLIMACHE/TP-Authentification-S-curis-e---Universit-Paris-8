@@ -29,6 +29,7 @@ $user = 'root'; // Votre utilisateur
 $pass = '';     // Votre mot de passe
 
 # 4. Structure du Projet
+```text
 /TP_Auth
 │
 ├── index.php          # La Vue (Interface HTML/JS)
